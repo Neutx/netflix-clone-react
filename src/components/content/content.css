@@ -1,5 +1,4 @@
-
-.content-wrapper {
-    height: 100vh;
-
+.content_container {
+    position: relative;
+    margin-top: -6vw;
 }
