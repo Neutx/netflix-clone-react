@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import './Content.css';
+import './content.css';
 import Row from '../row/Row';
 import RowData from '../../constants/urls';
 import axios from 'axios';
